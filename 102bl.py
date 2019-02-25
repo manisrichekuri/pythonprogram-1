@@ -1,4 +1,4 @@
-N=raw_(input())
+N=int(input())
 h=N
 while(N%2==0):
     print(int(N/2))
