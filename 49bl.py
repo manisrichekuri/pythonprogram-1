@@ -1,5 +1,4 @@
-n=int(input())
-v=int(input())
+n,v=map(int,input().split())
 c=n+v
 print(c)
 
