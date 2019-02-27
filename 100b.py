@@ -1,5 +1,5 @@
-n=int(input())
-l=str(n)
+N=int(input())
+l=str(N)
 ls=list(l)
 product=1
 for i in l:
