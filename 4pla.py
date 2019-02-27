@@ -1,2 +1,2 @@
-n=str(input(" "))
-print(n+".")
+s=str(input(" "))
+print(s+".")
